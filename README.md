@@ -1,6 +1,6 @@
 # git_tutorial
 Dưới đây là tài liệu hướng dẫn sử dụng Git viết bằng ngôn ngữ Markdown:
-
+![](/images/1648470569696.png)
 # Hướng dẫn sử dụng Git
 
 ## Giới thiệu về Git
